@@ -12,6 +12,7 @@ namespace ConsoleAppTest
         {
             Console.WriteLine("Test");
             Console.ReadLine();
+            Console.WriteLine("COMMITING TO TEST branch");
         }
     }
 }
